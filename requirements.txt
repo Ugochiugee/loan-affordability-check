@@ -1,0 +1,2 @@
+# Generated with pip freeze. No third-party packages are required.
+# This program uses only the Python standard library.
